@@ -1,0 +1,4 @@
+res://game.tscn
+res://tileset/tileset.tres
+res://character.gd
+res://pathfind_astar.gd
